@@ -39,7 +39,8 @@
 .fa-envelope
 .fa-quora
 .fa-instagram
-.fa-stack-overflow {
+.fa-stack-overflow
+.fa-googlescholar {
   font-size: 25px;
 }
 
@@ -103,11 +104,11 @@
   border-color: #a6ce3b;
 }
 
-.rounded-social-buttons .social-button.researchgate {
+.rounded-social-buttons .social-button.googlescholar {
   background: #5dd1b0;
 }
 
-.rounded-social-buttons .social-button.researchgate:hover, .rounded-social-buttons .social-button.researchgate:focus {
+.rounded-social-buttons .social-button.googlescholar:hover, .rounded-social-buttons .social-button.googlescholar:focus {
   color: #5dd1b0;
   background: #fefefe;
   border-color: #5dd1b0;
