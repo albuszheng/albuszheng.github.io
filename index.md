@@ -3,19 +3,18 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: 20230605_103404.jpg
+  image: headshot.jpg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am a PhD candidate at School of Computing and Information (SCI), University of Pittsburgh.
+I am advised by by Dr. [Rosta Farzan](https://rosta-farzan.net/), in the mean time I also work at the DIST Usability Laboratory headed by Dr. [Michael Lewis](https://sites.pitt.edu/~cmlewis).
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My research interest lies at the interaction of Game Analytics, Team Communication, Distributed Collaboration, and Human Robot Teaming. I use digital games as a platform to study human player interactions in a team setting, and explore new technologies that facilitate effective human team communication and collaboration. Through increased understanding of human interactions within a team, I explore various methods to improve the teaming experience and effectiveness of human and robots/AIs. 
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+### Recent Updates:
 
-PS: If you liked the theme, do star it on GitHub!
+- *10/2023* I attended CHI Play 2023 @Stratford ON, Canada and gave an oral presentation.
+- *06/2023* Two of our work on [ASIST](https://artificialsocialintelligence.org/about/) project were accepted in The 2023 IEEE Conference on Systems, Man, and Cybernetics
+- *04/2023* I defended my dissertation proposal and officially become a PhD candidate.
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
