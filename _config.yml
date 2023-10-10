@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Keyang Zheng
+description: PhD Candidate | University of Pittsburgh
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "" #name of GitHub repository
+url: "https://keyangz.me" #custom url to be used instead of GitHub repository
+email: kez20@pitt.edu
 
 # Pagination
 paginate: 4
@@ -13,11 +13,11 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
+twitter: "https://twitter.com/albuszheng"
+linkedin: "https://www.linkedin.com/in/keyang-zheng-989b5a87"
 stackoverflow: "#"
-github: "#"
-researchgate: "#"
+github: "https://github.com/albuszheng"
+researchgate: "https://scholar.google.com/citations?user=aq5E6LEAAAAJ&hl=en"
 orcid: "#"
 quora: "#"
 instagram: "#"
