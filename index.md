@@ -8,9 +8,9 @@ published: true
 ---
 
 I am a PhD candidate at School of Computing and Information (SCI), University of Pittsburgh.
-I am advised by by Dr. [Rosta Farzan](https://rosta-farzan.net/), in the mean time I also work at the DIST Usability Laboratory headed by Dr. [Michael Lewis](https://sites.pitt.edu/~cmlewis).
+I am advised by Dr. [Rosta Farzan](https://rosta-farzan.net/). I have also worked Dr. [Michael Lewis](https://sites.pitt.edu/~cmlewis) at the DIST Usability Laboratory in University of Pittsburgh.
 
-My research interest lies at the interaction of Game Analytics, Team Communication, Distributed Collaboration, and Human Robot Teaming. I use digital games as a platform to study human player interactions in a team setting, and explore new technologies that facilitate effective human team communication and collaboration. Through increased understanding of human interactions within a team, I explore various methods to improve the teaming experience and effectiveness of human and robots/AIs. 
+My research interest lies at the interaction of Game Analytics, Team Communication, Distributed Collaboration, and Human Robot Teaming. I utilize various platform, such as mupliplayer games, to study human interactions in a team setting, and explore new technologies that facilitate effective human team communication and collaboration. Through increased understanding of human interactions within a team, I explore various methods to improve the teaming experience and effectiveness of human and robots/AIs. 
 
 ### Recent Updates:
 
