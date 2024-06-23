@@ -31,3 +31,22 @@ $on-laptop:        1000px;
 @import 'style';
 @import 'google-fonts';
 @import 'syntax-highlighting';
+
+#btpBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #c3c3c3;
+    color: #434343;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#btpBtn:hover {
+    background-color: #c3c3c3;
+}
