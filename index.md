@@ -19,16 +19,16 @@ My research interest lies at the interaction of Game Analytics, Team Communicati
 - *04/2023* I defended my dissertation proposal and officially become a PhD candidate. -->
 
 ### Project
-##### Communicative Agent for Competitive Multiplayer Games
+#### Communicative Agent for Competitive Multiplayer Games
 - Using game analytic method to explored how players in competitive online multiplayer games (i.e. Heroes of the Strom, Dota 2) communicate and collaborate using non-verbal communication methods, such as Pings. 
 - Designing frameworks for bots/agents in the competitive online multiplayer games to enable improved communication between human players and bots/agents in a hybrid human-agent team.
 
-##### [ASIST](https://artificialsocialintelligence.org/about/) - A Robust and Adaptive Agent that Supports High Performance Teams
+#### [ASIST](https://artificialsocialintelligence.org/about/) - A Robust and Adaptive Agent that Supports High Performance Teams
 - Using Theory of Mind (ToM) to study people’s decision making and collaborative behaviors during a search and rescue mission in Minecraft.
 - Designing models using ToM to identify misbeliefs or information imbalance among team members, and interventions to target these obstacles in team collaboration using deep reinforcement learning agents. 
 - Collaborating with a team of researchers at CMU-RI, we developed AI agents capable of making ToM inferences in a make-up team and providing helpful interventions to improve team performances.
 
-##### Studying Community Influence of Substance Abuse Behaviors.
+#### Studying Community Influence of Substance Abuse Behaviors.
 - Using Agent-Based Simulation to develop models on community influence of alcohol/substance abuse behaviors.
 
 ### Experience
