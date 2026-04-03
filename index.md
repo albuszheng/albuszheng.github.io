@@ -7,7 +7,8 @@ profile:
 published: true
 ---
 
-I am a PhD candidate in the School of Computing and Information (SCI) at the University of Pittsburgh.
+I recently defended my PhD thesis at the School of Computing and Information (SCI) at the University of Pittsburgh on the topic of "Improving Human-Agent Collaboration through Effective Gestured Based
+Communication".
 I am advised by Dr. [Rosta Farzan](https://rosta-farzan.net/). I have also worked with Dr. [Michael Lewis](https://sites.pitt.edu/~cmlewis) at the DIST Usability Laboratory at the University of Pittsburgh.
 
 My research interests lie in the interaction of Game Analytics, Team Communication, Distributed Collaboration, and Human-Robot Teaming. I utilize various platforms, such as multiplayer games, to study human interactions in a team setting and explore new technologies that facilitate effective human team communication and collaboration. Through increased understanding of human interactions within a team, I explore various methods to improve the teaming experience and effectiveness of humans and robots/AIs. 
@@ -33,7 +34,7 @@ My research interests lie in the interaction of Game Analytics, Team Communicati
 
 ### Experience
 - Teaching Fellow, School of Computing and Information, University of Pittsburgh, PA. 
-  - Course: INFSCI0510 Data Analysis (Spring 2024, Summer 2024)
+  - Course: INFSCI0510 Data Analysis (Spring 2024, Summer 2024, Fall 2025, Spring 2026)
   - Course: INFSCI0201 Intermediate Python Programming (Fall 2024, Spring 2025)
 - Teaching Assistant, School of Computing and Information, University of Pittsburgh, PA. (Fall 2023)
   - Courses: INFSCI2430 Social Comuting, INFSCI2160/1530 Data Mining
