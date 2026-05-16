@@ -30,7 +30,7 @@
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons .fa-twitter,
+.rounded-social-buttons .fa-twitter, .fa-bluesky
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
@@ -63,6 +63,17 @@
   background: #fefefe;
   border-color: #55acee;
 }
+
+.rounded-social-buttons .social-button.bluesky {
+  background: #0a7aff;
+}
+
+.rounded-social-buttons .social-button.bluesky:hover, .rounded-social-buttons .social-button.bluesky:focus {
+  color: #0a7aff;
+  background: #ffffff;
+  border-color: #0a7aff;
+}
+
 
 .rounded-social-buttons .social-button.linkedin {
   background: #007bb5;
