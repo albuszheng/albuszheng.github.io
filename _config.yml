@@ -13,16 +13,16 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+# twitter: "#"
 linkedin: "keyang-zheng-989b5a87"
-stackoverflow: "#"
+# stackoverflow: "#"
 github: "albuszheng"
 googlescholar: "aq5E6LEAAAAJ&hl=en"
 bluesky: "albsun"
-orcid: "#"
-quora: "#"
+# orcid: "0000-0001-6609-1636"
+# quora: "#"
 instagram: "albuszheng"
-facebook: "#"
+# facebook: "#"
 
 
 # Markdown
